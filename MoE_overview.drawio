@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T07:50:56.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5JhijL7TmPjPWo0GY0Fz" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T15:24:02.842Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2EutE4VClXLlvkvQveWs" version="22.1.11" type="github">
   <diagram name="第 1 页" id="v7rus-ETG1JhPof1lh1V">
-    <mxGraphModel dx="232" dy="156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="562" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,6 +136,9 @@
         <mxCell id="tH3ki44tUa_61s_Q2aj2-37" value="RS Expert" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="880" y="280" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="tH3ki44tUa_61s_Q2aj2-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tH3ki44tUa_61s_Q2aj2-38" target="tH3ki44tUa_61s_Q2aj2-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tH3ki44tUa_61s_Q2aj2-38" value="UAV Expert" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="880" y="345" width="110" height="40" as="geometry" />
         </mxCell>
@@ -147,6 +150,18 @@
         </mxCell>
         <mxCell id="tH3ki44tUa_61s_Q2aj2-52" value="⊕" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1000" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tH3ki44tUa_61s_Q2aj2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tH3ki44tUa_61s_Q2aj2-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="300" as="sourcePoint" />
+            <mxPoint x="740" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tH3ki44tUa_61s_Q2aj2-62" value="AvgPool" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="190" width="40" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tH3ki44tUa_61s_Q2aj2-63" value="生物量/LAI/···" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="285" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

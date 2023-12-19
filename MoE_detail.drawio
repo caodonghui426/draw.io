@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T15:24:59.511Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.11" etag="2ZIoUrl-FXOWJ9lYOUAE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T15:39:21.402Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yUGd4kGSofYBuGmtspEr" version="22.1.11" type="github">
   <diagram name="第 1 页" id="dP0fPj3UtPKDiUrAnlok">
-    <mxGraphModel>
+    <mxGraphModel dx="984" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rMZNqNOyx9BRlZavAugA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="540" width="210" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="rMZNqNOyx9BRlZavAugA-2" value="Shared Token Space" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="830" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rMZNqNOyx9BRlZavAugA-3" value="图像块1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="315" y="553.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rMZNqNOyx9BRlZavAugA-4" value="图像块2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="315" y="598.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rMZNqNOyx9BRlZavAugA-5" value="图像块3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="315" y="643.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rMZNqNOyx9BRlZavAugA-6" value="表格块1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="315" y="688.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rMZNqNOyx9BRlZavAugA-7" value="表格块2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="315" y="733.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rMZNqNOyx9BRlZavAugA-8" value="表格块3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="315" y="776.25" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
